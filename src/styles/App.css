@@ -1,0 +1,21 @@
+body{
+  position: relative;
+}
+
+.scroll{
+  position: fixed;
+  right: 2rem;
+  bottom: 2rem;
+
+}
+.svg-icon:hover path{
+  cursor: pointer;
+  fill: black;
+}
+.class-one{
+  opacity: 1;
+}
+.class-two{
+  opacity: 0;
+}
+
